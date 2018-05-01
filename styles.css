@@ -164,7 +164,7 @@ span.price {
   background-repeat: no-repeat;
 }
 
-.aboutMe{
-font-family: 'Cairo', sans-serif;
-font-size: 20px;
+.aboutMeHeader{
+  background-color: black;
+  color: white;
 }
