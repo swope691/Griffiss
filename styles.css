@@ -163,3 +163,6 @@ span.price {
   background-size: cover;
   background-repeat: no-repeat;
 }
+body {
+  background-color: #404040;
+}
