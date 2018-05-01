@@ -77,7 +77,7 @@ span.price {
 }
 .navbars {
   overflow: hidden;
-  background-color: tan;
+  background-color:  #374fce;
   font-family: Arial;
 }
 
@@ -163,13 +163,13 @@ span.price {
   background-size: cover;
   background-repeat: no-repeat;
 }
-<<<<<<< HEAD
-body {
-  background-color: #404040;
-=======
 
-.aboutMe{
-font-family: 'Cairo', sans-serif;
-font-size: 20px;
->>>>>>> d70fa85a5b2fc7164e40cc24da4f309a795947bd
+.footer {position: fixed;
+    bottom: 0;
+    width: 100%;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-between;
 }
