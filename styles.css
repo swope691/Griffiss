@@ -158,7 +158,7 @@ span.price {
   justify-content: space-around;
   justify-content: space-between;
 }
-body{
+.frontpage{
   background-image: url(viking.jpg);
   background-size: cover;
   background-repeat: no-repeat;
