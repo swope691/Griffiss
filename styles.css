@@ -164,6 +164,7 @@ span.price {
   background-repeat: no-repeat;
 }
 
+
 .footer {position: fixed;
     bottom: 0;
     width: 100%;
@@ -171,5 +172,4 @@ span.price {
   color: white;
   display: flex;
   justify-content: space-around;
-  justify-content: space-between;
-}
+  justify-content: space-between;}
