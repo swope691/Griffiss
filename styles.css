@@ -77,14 +77,14 @@ span.price {
 }
 .navbars {
   overflow: hidden;
-  background-color: black;
+  background-color: tan;
   font-family: Arial;
 }
 
 /* Links inside the navbar */
 .navbars a {
   float: left;
-  font-size: 16px;
+  font-size: 24px;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -100,7 +100,7 @@ span.price {
 
 /* Dropdown button */
 .dropdowns .dropbtns {
-  font-size: 16px;
+  font-size: 24px;
   border: none;
   outline: none;
   color: white;
@@ -150,4 +150,16 @@ span.price {
   text-align: center;
   font-size: 46px;
 
+}
+.headerquote{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-between;
+}
+body{
+  background-image: url(viking.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
