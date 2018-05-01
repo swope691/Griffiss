@@ -75,30 +75,31 @@ span.price {
   width: 150px;
   height: 150px;
 }
-.navbar {
+.navbars {
   overflow: hidden;
   background-color: black;
   font-family: Arial;
 }
 
 /* Links inside the navbar */
-.navbar a {
+.navbars a {
   float: left;
   font-size: 16px;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+
 }
 
 /* The dropdown container */
-.dropdown {
+.dropdowns {
   float: left;
   overflow: hidden;
 }
 
 /* Dropdown button */
-.dropdown .dropbtn {
+.dropdowns .dropbtns {
   font-size: 16px;
   border: none;
   outline: none;
@@ -110,12 +111,12 @@ span.price {
 }
 
 /* Add a red background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbars a:hover, .dropdowns:hover .dropbtns {
   background-color: darkblue;
 }
 
 /* Dropdown content (hidden by default) */
-.dropdown-content {
+.dropdowns-content {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -125,7 +126,7 @@ span.price {
 }
 
 /* Links inside the dropdown */
-.dropdown-content a {
+.dropdowns-content a {
   float: none;
   color: black;
   padding: 12px 16px;
@@ -135,12 +136,12 @@ span.price {
 }
 
 /* Add a grey background color to dropdown links on hover */
-.dropdown-content a:hover {
+.dropdowns-content a:hover {
   background-color: #ddd;
 }
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
+.dropdowns:hover .dropdowns-content {
   display: block;
 }
 .header{
