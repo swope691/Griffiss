@@ -163,3 +163,8 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.aboutMe{
+font-family: 'Cairo', sans-serif;
+font-size: 20px;
+}
