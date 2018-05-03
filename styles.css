@@ -113,6 +113,7 @@ span.price {
 /* Add a red background color to navbar links on hover */
 .navbars a:hover, .dropdowns:hover .dropbtns {
   background-color: darkblue;
+
 }
 
 /* Dropdown content (hidden by default) */
@@ -178,6 +179,12 @@ span.price {
 
 .ambassadors{
   background-image: url(ambassadorsBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.men{
+  background-image: url(mensStuff.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
