@@ -176,6 +176,12 @@ span.price {
   background-repeat: no-repeat;
 }
 
+.ambassadors{
+  background-image: url(ambassadorsBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .footer {position: fixed;
     bottom: 0;
     width: 100%;
