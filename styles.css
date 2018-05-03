@@ -175,6 +175,11 @@ span.price {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.womens{
+  background-image: url(womensBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .ambassadors{
   background-image: url(ambassadorsBackground.jpg);
