@@ -164,6 +164,12 @@ span.price {
   background-repeat: no-repeat;
 }
 
+.aboutMe{
+  background-image: url(about-me.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 
 .footer {position: fixed;
     bottom: 0;
