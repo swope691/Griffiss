@@ -251,6 +251,10 @@ input[type=text]:focus, input[type=password]:focus {
   opacity: 0.9;
   float: right;
 }
+.signupbtn{
+  background-color: #4CAF50;
+  padding:14px 20px;
+}
 
 .button :hover {
   opacity:1;
@@ -329,4 +333,11 @@ hr {
   .cancelbtn, .signupbtn {
     width: 100%;
   }
+}
+#carousel{
+  margin: 0 auto;
+}
+.story{
+  color: darkgray;
+  font-weight: bold;
 }
